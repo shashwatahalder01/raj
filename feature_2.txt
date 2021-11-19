@@ -1,1 +1,6 @@
 feature 2 is added
+
+
+made some changes in featue_2
+add new functionalities]
+bug fixed
